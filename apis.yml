@@ -1,0 +1,32 @@
+aid: watchmode
+name: Watchmode
+description: "API for finding out the streaming availability of movies & shows"
+url: https://api.watchmode.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: Watchmode
+    description: "API for finding out the streaming availability of movies & shows"
+    humanURL: https://api.watchmode.com/
+    baseURL: https://api.watchmode.com/
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://api.watchmode.com/
+common:
+  - type: Website
+    url: https://api.watchmode.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
