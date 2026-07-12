@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.watchmode.com/
 common:
+  - type: DomainSecurity
+    url: security/watchmode-domain-security.yml
   - type: Website
     url: https://api.watchmode.com/
   - type: PublicAPIsListing
