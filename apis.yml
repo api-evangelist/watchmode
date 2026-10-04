@@ -39,7 +39,6 @@ apis:
   - name: Watchmode
     description: "API for finding out the streaming availability of movies & shows"
     humanURL: https://api.watchmode.com/
-    baseURL: https://api.watchmode.com/
     tags:
       - Video
     properties:
